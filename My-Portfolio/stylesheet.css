@@ -1,0 +1,43 @@
+body {
+    font-family: poppins, sans-serif;
+    background-color:grey;
+    margin: 0;
+    padding: 20px;
+}
+
+img {
+    border-radius: 50%;
+    display: block;
+    margin: 20px auto;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+p, li {
+    color: dimgrey;
+    font-size: 18px;
+}
+
+ul {
+    list-style-type: square;
+}
+
+a {
+    text-decoration: none;
+    color:cornflowerblue;
+}
+
+a:hover {
+    color:brown;
+}
+
+.container {
+    max-width: 700;
+    background: white;
+    margin: 0 auto;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 15);
+}
